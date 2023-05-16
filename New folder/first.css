@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(167, 167, 167);
+}
+nav{
+    background-color: rgb(81, 2, 226);
+    
+}
+nav :hover{
+    font-size: xx-large;
+    color: rgb(65%, 100%, 0%);
+    } 
+
+nav a{
+    color: aliceblue;
+    margin-left: 10%;
+    font-size: x-large;
+    text-decoration: underline none;
+}
+.titre{
+    font-size: x-large;
+    color: chocolate;
+    background-color: rgb(153, 177, 198);
+}
+.video{
+    border-radius: 20px;
+}
+
+
