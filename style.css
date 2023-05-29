@@ -1,3 +1,4 @@
+/* le partie de navbar */
 .nav {
     display: flex;
     justify-content: space-between;
@@ -82,7 +83,7 @@ h1 {
     font-weight:5;
     letter-spacing: -.3px;
 }
-
+ /* les deux para */
 .para {
     display: flex;
     margin-left: 450px;
@@ -421,6 +422,12 @@ width: 253px;
 .image img{
     width: 500px;
 }
+
+
+
+
+
+
 
 
 
